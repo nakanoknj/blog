@@ -1,5 +1,4 @@
 baseURL = 'https://nakanoknj.github.io/blog'
 languageCode = 'ja-jp'
-title = 'My New Hugo Site'
+title = 'Hugo Demo'
 theme = "PaperMod"
-publishDir = 'docs'
